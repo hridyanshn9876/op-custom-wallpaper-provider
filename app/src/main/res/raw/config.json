@@ -6,6 +6,12 @@
             "fod_video_file_name" : "wallpaper_sample.mp4",
             "fod_video_first_frame" : "net.oneplus.wallpaperresources:drawable/wallpaper_sample_f1"
         }
+        ,
+        {
+            "image_res_name": "net.oneplus.wallpaperresources:drawable/post",
+            "fod_video_file_name" : "vid1.mp4",
+            "fod_video_first_frame" : "net.oneplus.wallpaperresources:drawable/pre"
+        }
     ],
     "default_wallpaper": {
         "image_res_name": "net.oneplus.wallpaperresources:drawable/wallpaper_sample",
